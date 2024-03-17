@@ -28,6 +28,7 @@ export default function App() {
         <a href="https://react.dev" target="_blank" rel="noreferrer">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
+        <p>Initial Commit</p>
       </div>
       <h1>{serverData}</h1>
     </>
