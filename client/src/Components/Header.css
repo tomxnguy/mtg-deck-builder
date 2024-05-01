@@ -1,0 +1,17 @@
+.header-div {
+  position: fixed;
+  justify-content: space-between;
+  display: flex;
+  width: 100vw;
+  align-items: center;
+  background-color: grey;
+  top: 0;
+}
+
+.sets-view-div {
+  padding-left: 0.5rem;
+}
+
+.decks-view-div {
+  padding-right: 0.75rem;
+}
